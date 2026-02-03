@@ -49,7 +49,5 @@ As tecnologias podem variar conforme a implementação, mas o projeto pode utili
 
 ## 🚀 Como Executar o Projeto
 
-### 1️⃣ Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/Sistema_Inteligente_de_Apoio_a_Tomada_de_Decisoes.git
+
 
